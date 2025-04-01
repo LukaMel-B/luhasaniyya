@@ -38,7 +38,7 @@ $(function () {
 
     ***************************/
 
-    var accent = 'rgba(255, 152, 0, 1)';
+    var accent = '#f35e01';
     var dark = '#000';
     var light = '#fff';
 
