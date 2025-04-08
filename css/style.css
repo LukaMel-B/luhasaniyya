@@ -2645,7 +2645,7 @@ social icons
 }
 .mil-social-icons li a {
   color: rgb(255, 255, 255);
-  font-size: 18px;
+  font-size:30px;
   -webkit-transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
   transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
